@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **the Guitar**
 
-- 👨‍💻 All of my projects are available at [https://v0-personal-project-nj.vercel.app/](https://v0-personal-project-nj.vercel.app/)
-
 - 📫 How to reach me **ywarnapura@gmail.com**
 
 - ⚡ Fun fact **I like to Code :)**
