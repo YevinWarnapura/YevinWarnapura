@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yevin Warnapura</h1>
-<h3 align="center">2cnd Year Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 - 🔭 I’m currently working on **NBA Machine Learning Predicting Software**
 
